@@ -1,50 +1,50 @@
 <annotation>
-	<folder>train</folder>
-	<filename>image17.jpg</filename>
-	<path>E:\tensorflow\models\workspace\training_demo\images\train\image17.jpg</path>
+	<folder>images</folder>
+	<filename>image002.png</filename>
+	<path>C:\Users\nirmal.jamodiya\Downloads\images (2)\images\image002.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1920</width>
-		<height>1080</height>
+		<width>936</width>
+		<height>626</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>button</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>362</ymin>
-			<xmax>1088</xmax>
-			<ymax>914</ymax>
+			<xmin>78</xmin>
+			<ymin>231</ymin>
+			<xmax>443</xmax>
+			<ymax>301</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>button</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1257</xmin>
-			<ymin>637</ymin>
-			<xmax>1554</xmax>
-			<ymax>851</ymax>
+			<xmin>87</xmin>
+			<ymin>328</ymin>
+			<xmax>444</xmax>
+			<ymax>390</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>bike</name>
+		<name>button</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1616</xmin>
-			<ymin>495</ymin>
-			<xmax>1776</xmax>
-			<ymax>907</ymax>
+			<xmin>85</xmin>
+			<ymin>419</ymin>
+			<xmax>444</xmax>
+			<ymax>488</ymax>
 		</bndbox>
 	</object>
 </annotation>

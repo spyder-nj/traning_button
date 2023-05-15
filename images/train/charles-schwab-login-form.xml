@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>charles-schwab-login-form.png</filename>
+	<path>C:\Users\nirmal.jamodiya\Downloads\charles-schwab-login-form.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>815</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>544</ymin>
+			<xmax>887</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

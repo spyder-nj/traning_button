@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image006.png</filename>
+	<path>C:\Users\nirmal.jamodiya\Downloads\images (2)\images\image006.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>936</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>491</ymin>
+			<xmax>898</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>
