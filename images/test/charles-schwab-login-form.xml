@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>image006.png</filename>
-	<path>C:\Users\nirmal.jamodiya\Downloads\images (2)\images\image006.png</path>
+	<folder>Downloads</folder>
+	<filename>charles-schwab-login-form.png</filename>
+	<path>C:\Users\nirmal.jamodiya\Downloads\charles-schwab-login-form.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>936</width>
-		<height>534</height>
+		<width>1500</width>
+		<height>815</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>771</xmin>
-			<ymin>491</ymin>
-			<xmax>898</xmax>
-			<ymax>530</ymax>
+			<xmin>625</xmin>
+			<ymin>544</ymin>
+			<xmax>887</xmax>
+			<ymax>615</ymax>
 		</bndbox>
 	</object>
 </annotation>
